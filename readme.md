@@ -118,6 +118,7 @@
 - [discord.me](https://discord.me)
 - [discord.io](https://discord.io)
 - [invite.gg](https://invite.gg)
+- [uCord](https://ucord.cc) - Free vanity invites like ucord.cc/yourname that never expire and auto-repair if the underlying invite breaks.
 
 ### Custom Bot Invites - Create a custom invite link for your Discord bot.
 - [bot.discord.io](https://bot.discord.io)
