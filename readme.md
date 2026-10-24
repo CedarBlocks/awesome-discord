@@ -135,6 +135,7 @@
 - [serverlist.space](https://serverlist.space)
 - [top.gg](https://top.gg/servers)
 - [Disforge Servers](https://disforge.com/servers) 
+- [uCord](https://ucord.cc) - Browse Discord servers by topic or list your own for free, with a permanent ucord.cc link that fixes itself if the invite dies.
 
 ### Bot Lists:
 - **View all bot lists: [botblock.org/lists](https://botblock.org/lists)**
